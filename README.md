@@ -7,11 +7,7 @@
 - 📚 I alredy know how to work in Python, C, Java, JavaScript, HTML, CSS and MySQL.
 - 📫 How to reach me: andresalier11@gmail.com
 
-<br />
-
 ---
-
-<br />
 
 ### Languages and Tools:
 
