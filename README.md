@@ -3,7 +3,7 @@
 <br />
 
 - 👀 Currently I'm studing in Lisbon, Portugal
-- 🌱 Today I'm not as good has I want, but I'm working on it
+- 🌱 I'm not as good has I want, but I'm working on it
 - 📚 I alredy know how to work in Python, C, Java, JavaScript, HTML, CSS and MySQL.
 - 📫 How to reach me: andresalier11@gmail.com
 
