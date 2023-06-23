@@ -2,7 +2,7 @@
 
 <br />
 
-- 👀 Currently I'm studing in Lisbon, Portugal
+- 👀 Currently I'm studying in Lisbon, Portugal
 - 📚 I alredy know how to work with Python, C, Java, JavaScript, HTML, CSS, MySQL, MongoDB, Android Development, PHP, TypeScript, React.
 - 📫 How to reach me: andresalier11@gmail.com
 
