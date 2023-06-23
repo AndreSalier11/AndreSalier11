@@ -1,5 +1,4 @@
-# 👋Hi, I’m Andre Salier e Silva
-
+# 👋Hi, I’m Andre Salier
 <br />
 
 - 👀 Currently I'm studying in Lisbon, Portugal
